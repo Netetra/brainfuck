@@ -5,7 +5,7 @@ Rust製BrainFuckインタプリタ
 - 入力(`,`)に対応させる
 
 # Example
-```sh
+```
 $ RUST_LOG=info cargo run
    Compiling brainfuck v0.1.0 (/home/netetra/git/Netetra/brainfuck)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.63s
